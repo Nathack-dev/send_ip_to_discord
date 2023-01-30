@@ -1,8 +1,8 @@
 import requests
 import time
 
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1069644939195076608/YUN2nnRIdiOyIxO54Yyk-wKv-57lDzNJLGfDj8b-MUdhBbA6Gb2CfW7lqyQG6--FZw5T"
-LAST_IP = "86.207.124.162" # Mettez ici l'@ IP connu
+DISCORD_WEBHOOK_URL = "VOTRE_URL_DISCORD_WEBHOOK"
+LAST_IP = "0.0.0.0" # Mettez ici l'@ IP connu
 
 def send_discord_message(ip):
     embed = {
@@ -21,4 +21,4 @@ while True:
     if current_ip != LAST_IP:
         LAST_IP = current_ip
         send_discord_message(current_ip)
-    time.sleep(60)
+    time.sleep(60) # Remplacez le "60" si vous voulez modifier le temps (en secondes)
