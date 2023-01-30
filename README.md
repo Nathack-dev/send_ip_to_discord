@@ -8,8 +8,8 @@ The bot allows "just for now" to randomly generate via an API an image of a bee.
 
 ## 📷 Images 
 <div align="center">
-  <a href="https://github.com/Nathack-dev/hive-bot/"">
-    <img src="presentation.png">
+  <a href="https://github.com/Nathack-dev/send_ip_to_discord/"">
+    <img src="Discord_eXDr2tdAIT.png">
   </a>
 </div>
 
