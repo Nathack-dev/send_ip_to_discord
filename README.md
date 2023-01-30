@@ -1,7 +1,7 @@
   <h3 align="center">See IP 👀</h3>
 
   <p align="left">
-The bot allows "just for now" to randomly generate via an API an image of a bee.
+Toutes les 60 secondes le programme va chercher si l'IP publique du réseau à changer. Si il à changer alors il envoie un embed.
     
 <br/>
 </div>
@@ -14,7 +14,5 @@ The bot allows "just for now" to randomly generate via an API an image of a bee.
 </div>
 
 ## ⚙️ How-To setup 
-
- 
- ## 📚 Useful functions 
+## 📚 Useful functions 
 
